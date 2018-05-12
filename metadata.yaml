@@ -7,11 +7,13 @@ creator:
   author:
     agent_name: Baldry, A. L. (Alfred Lys)
     alias: Baldry, Alfred Lys
-    birthdate: &id001 1858
-    deathdate: *id001
+    birthdate: 1858
+    deathdate: 1858
     gutenberg_agent_id: '38541'
     url: http://www.gutenberg.org/2009/agents/38541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36929#Leighton
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2011-08-01'
 gutenberg_type: Text
